@@ -9,6 +9,12 @@ Using this package you can access your OpenCart database tables inside Laravel.
 composer require exfriend/laracart
 ```
 
+Update your .env file (affects only Laracart):
+
+```
+DB_PREFIX=oc_
+```
+
 ## Usage
 
 ```
