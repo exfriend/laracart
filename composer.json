@@ -1,0 +1,18 @@
+{
+  "name": "exfriend/laracart",
+  "description": "Eloquent Models for Opencart entities",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Exfriend\\Laracart\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Vladislav Otchenashev",
+      "email": "i@zlad.tk"
+    }
+  ],
+  "require": {}
+}
